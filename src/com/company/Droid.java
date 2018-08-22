@@ -1,7 +1,7 @@
 /*calculates the amount of the current battery level and ask the user how long the droid should recharge. */
 
 import java.util.Scanner;
-
+//test
 public class Droid{
     double batteryLevel;
 
